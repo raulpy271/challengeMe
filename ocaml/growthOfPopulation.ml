@@ -1,3 +1,4 @@
+(* Description: https://www.codewars.com/kata/563b662a59afc2b5120000c6/ocaml *)
 
 let get_inhabitants_in_next_year (p0: int) (percent: float) (aug: int): int =
   let percent_ratio = percent /. 100. in
