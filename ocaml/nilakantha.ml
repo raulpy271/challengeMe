@@ -1,3 +1,4 @@
+(* Description: https://en.wikipedia.org/wiki/Pi#Infinite_series *)
 
 type float_operation = float -> float -> float;;
 
@@ -17,3 +18,4 @@ let calculate_pi ?(limit=20) (): float =
       calculate_a_pi_term (term + 2) new_acc (shift operation)
   in calculate_a_pi_term 2 3.0 (+.)
 ;;
+
