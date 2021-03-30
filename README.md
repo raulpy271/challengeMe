@@ -8,15 +8,19 @@ But it makes me feels less ignorant about the different ways to solve a problem.
 
 ## Problems solved
 
-Here are some of the problems ordered by languages:
+Here are some of the problems grouped by languages:
 
 ### Prolog
 
 #### [Quicksort algorithm](https://github.com/raulpy271/challengeMe/blob/main/prolog/quicksort.pl)
 
+#### [Binary search](https://github.com/raulpy271/challengeMe/blob/main/prolog/binarySearch.pl)
+
 ### Ocaml
 
 #### [Population grow](https://github.com/raulpy271/challengeMe/blob/main/ocaml/growthOfPopulation.ml)
+
+#### [Calculating Pi](https://github.com/raulpy271/challengeMe/blob/main/ocaml/nilakantha.ml)
 
 ### SQL 
 
