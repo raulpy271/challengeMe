@@ -12,25 +12,25 @@ Here are some of the problems grouped by languages:
 
 ### Prolog
 
-#### [Quicksort algorithm](https://github.com/raulpy271/challengeMe/blob/main/prolog/quicksort.pl)
+#### [Quicksort algorithm](prolog/quicksort.pl)
 
-#### [Binary search](https://github.com/raulpy271/challengeMe/blob/main/prolog/binarySearch.pl)
+#### [Binary search](prolog/binarySearch.pl)
 
 ### Ocaml
 
-#### [Population grow](https://github.com/raulpy271/challengeMe/blob/main/ocaml/growthOfPopulation.ml)
+#### [Population grow](ocaml/growthOfPopulation.ml)
 
-#### [Calculating Pi](https://github.com/raulpy271/challengeMe/blob/main/ocaml/nilakantha.ml)
+#### [Calculating Pi](ocaml/nilakantha.ml)
 
 ### SQL 
 
-#### [Null handling](https://github.com/raulpy271/challengeMe/blob/main/sql/NullHandling.sql)
+#### [Null handling](sql/NullHandling.sql)
 
 ### Bash
 
-#### [Add blurred background in video](https://github.com/raulpy271/challengeMe/blob/main/bash/putInFullHD.sh)
+#### [Add blurred background in video](bash/putInFullHD.sh)
 
 ### Java
 
-#### [Unit test - Junit](java/SquaresInRectangle.java)
+#### [Unit test - Junit](java/)
 
