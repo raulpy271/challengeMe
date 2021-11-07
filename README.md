@@ -30,3 +30,7 @@ Here are some of the problems grouped by languages:
 
 #### [Add blurred background in video](https://github.com/raulpy271/challengeMe/blob/main/bash/putInFullHD.sh)
 
+### Java
+
+#### [Unit test - Junit](java/SquaresInRectangle.java)
+

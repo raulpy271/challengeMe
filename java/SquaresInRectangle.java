@@ -1,3 +1,4 @@
+// Description: https://www.codewars.com/kata/5a62da60d39ec5d947000093/
 
 public class SquaresInRectangle {
   public static int findSquares(int x, int y){
