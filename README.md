@@ -37,3 +37,8 @@ Here are some of the problems grouped by languages:
 ### Python
 
 #### [caching Fibonacci](python/memoized_fibonacci.py)
+
+### BrainFuck
+
+#### [Brainfuck generator](brainfuck/bf_generator.bf)
+
