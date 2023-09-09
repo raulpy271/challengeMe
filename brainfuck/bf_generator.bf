@@ -1,3 +1,5 @@
+Description: https://www.codewars.com/kata/579e646353ba33cce2000093/bf
+
 cell2: dot character
 cell3: next character
 cell4: input char
